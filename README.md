@@ -19,6 +19,7 @@ KanyeAI is a Discord chat bot that replies to the user with quotes from Kanye We
 
 ## How to get KanyeAI in your server
 Please use this discord link to add the bot to your server:
+
 <https://discord.com/api/oauth2/authorize?client_id=886685150178574367&permissions=274877910080&scope=bot%20applications.commands>
 
 You might need to sign-in, and once you have done that you can pick what server to add KanyeAI to. :)
