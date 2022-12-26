@@ -1,4 +1,4 @@
-<img align="right" width="25%" height="40%" src="KanyeAI/KanyeAI.png">
+<img align="right" width="25%" height="40%" src="https://raw.githubusercontent.com/GalacticBacn/KanyeAI/main/KANYEAI.png">
 
 # **KanyeAI**
 
